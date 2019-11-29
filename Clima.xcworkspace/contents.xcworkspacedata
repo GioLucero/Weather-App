@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Clima.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/admin/Desktop/App Development/Clima-iOS12 2/Clima">
+   </FileRef>
+   <FileRef
+      location = "group:">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
